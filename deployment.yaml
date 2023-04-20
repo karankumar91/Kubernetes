@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: djangodeployment
-        image: karan91052/django
+        image: karan91052/newdjango
         resources:
           limits:
             memory: "256Mi"
